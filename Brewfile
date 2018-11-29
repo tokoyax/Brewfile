@@ -6,6 +6,7 @@ brew ansible
 brew autoconf
 brew automake
 brew boost
+brew cairo
 brew cmake
 brew ctags
 brew dash
@@ -21,18 +22,24 @@ brew exercism
 brew ffmpeg
 brew fish
 brew fontconfig
+brew fontforge
 brew freetype
+brew fribidi
 brew fswatch
 brew gcc
 brew gd
 brew gdbm
 brew gettext
 brew ghq
+brew giflib
+brew glib
 brew global
 brew gmp
 brew go
 brew gperftools
+brew graphite2
 brew graphviz
+brew harfbuzz
 brew hub
 brew icu4c
 brew ilmbase
@@ -42,6 +49,7 @@ brew jpeg
 brew jq
 brew lame
 brew libevent
+brew libffi
 brew libgpg-error
 brew libiconv
 brew libidn2
@@ -49,9 +57,11 @@ brew libksba
 brew libmpc
 brew libogg
 brew libpng
+brew libspiro
 brew libtermkey
 brew libtiff
 brew libtool
+brew libuninameslist
 brew libunistring
 brew libuv
 brew libvorbis
@@ -79,11 +89,13 @@ brew openmotif
 brew openssl
 brew openssl@1.1
 brew opus
+brew pango
 brew par
 brew pcre
 brew pcre2
 brew peco
 brew perl
+brew pixman
 brew pkg-config
 brew plantuml
 brew postgresql
@@ -145,6 +157,9 @@ tap neovim/neovim
 
 tap rcmdnk/file
 brew brew-file
+
+tap sanemat/font
+brew ricty
 
 tap tkengo/highway
 brew highway
