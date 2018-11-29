@@ -11,8 +11,6 @@ brew cmake
 brew ctags
 brew dash
 brew direnv
-brew docker
-brew docker-machine
 brew doxygen
 brew eigen
 brew elixir
@@ -40,6 +38,7 @@ brew gperftools
 brew graphite2
 brew graphviz
 brew harfbuzz
+brew haskell-stack
 brew hub
 brew icu4c
 brew ilmbase
@@ -136,11 +135,8 @@ brew xz
 brew yarn
 brew zsh
 
-tap homebrew/dupes
-
-tap homebrew/science
-
 tap homebrew/cask
+cask chromedriver
 cask xquartz
 
 tap eugenmayer/dockersync
@@ -168,24 +164,17 @@ tap z80oolong/tmux
 brew doxygen@1.8
 brew libevent@2.2
 
-# Other Homebrew packages
-brew casperjs
-brew chromedriver
+# Other Cask applications
+cask java
 
 # App Store applications
-appstore 529456740 CheatSheet (1.0.3)
-appstore 458245960 Demo Recorder (2.0)
+appstore 443987910 1Password (6.8.9)
 appstore 682658836 GarageBand (10.3.1)
-appstore 467939042 Growl (2.1.3)
-appstore 408981434 iMovie (10.1.10)
-appstore 408981381 iPhoto (9.6.1)
-appstore 411213048 LadioCast (000013000)
+appstore 408981434 iMovie (10.1.9)
+appstore 409183694 Keynote (8.1)
 appstore 539883307 LINE (5.11.2)
-appstore  Install macOS Mojave (14022)
-appstore 715768417 Microsoft Remote Desktop (8.0.30030)
-appstore 540348655 Monosnap (3.5.3)
-appstore 405580712 StuffIt Expander (15.0.7)
-appstore 425424353 The Unarchiver (4.0.0)
-appstore 409789998 Twitter (4.3.2)
-appstore 414855915 WinArchiver Lite (2.5.3)
+appstore 409203825 Numbers (5.1)
+appstore 409201541 Pages (7.1)
+appstore 1429033973 RunCat (1.5)
+appstore 803453959 Slack (3.3.3)
 appstore 497799835 Xcode (10.1)
