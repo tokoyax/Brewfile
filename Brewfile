@@ -98,6 +98,7 @@ brew pixman
 brew pkg-config
 brew plantuml
 brew postgresql
+brew proctools
 brew pv
 brew python
 brew python@2
@@ -170,11 +171,11 @@ cask java
 # App Store applications
 appstore 443987910 1Password (6.8.9)
 appstore 682658836 GarageBand (10.3.1)
-appstore 408981434 iMovie (10.1.9)
-appstore 409183694 Keynote (8.1)
+appstore 408981434 iMovie (10.1.10)
+appstore 409183694 Keynote (8.3)
 appstore 539883307 LINE (5.11.2)
-appstore 409203825 Numbers (5.1)
-appstore 409201541 Pages (7.1)
+appstore 409203825 Numbers (5.3)
+appstore 409201541 Pages (7.3)
 appstore 1429033973 RunCat (1.5)
 appstore 803453959 Slack (3.3.3)
 appstore 497799835 Xcode (10.1)
