@@ -137,8 +137,8 @@ brew yarn
 brew zsh
 
 tap homebrew/cask
-cask chromedriver
-cask xquartz
+cask alacritty
+cask java
 
 tap eugenmayer/dockersync
 brew unox
@@ -147,6 +147,9 @@ tap goles/battery
 brew battery
 
 tap hage/formula
+
+tap kyoshidajp/tosa
+brew tosa
 
 tap mscharley/homebrew
 
@@ -166,16 +169,19 @@ brew doxygen@1.8
 brew libevent@2.2
 
 # Other Cask applications
-cask java
+cask chromedriver
+cask xquartz
 
 # App Store applications
 appstore 443987910 1Password (6.8.9)
-appstore 682658836 GarageBand (10.3.1)
+appstore 682658836 GarageBand (10.3.2)
 appstore 408981434 iMovie (10.1.10)
 appstore 409183694 Keynote (8.3)
-appstore 539883307 LINE (5.11.2)
+appstore 539883307 LINE (5.12.0)
 appstore 409203825 Numbers (5.3)
 appstore 409201541 Pages (7.3)
 appstore 1429033973 RunCat (1.5)
+appstore 425955336 Skitch (2.8.2)
 appstore 803453959 Slack (3.3.3)
+appstore 425424353 The Unarchiver (4.0.0)
 appstore 497799835 Xcode (10.1)
